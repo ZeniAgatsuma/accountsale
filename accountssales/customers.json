@@ -1,0 +1,92 @@
+[
+  {
+    "nickname": "junior.muller",
+    "password": "f$Z0B%7jdgFx9Mok0gCK9dye3",
+    "email": "eileen.rau@yahoo.com",
+    "paymentMethod": "Credit Card",
+    "errors": [],
+    "isValid": false,
+    "id": "307d6942-6d70-4219-8c72-63e9d97fc4d4"
+  },
+  {
+    "nickname": "reggie.frami",
+    "password": "3N\u0026R!#7aO1",
+    "email": "bruce.macejkovic@gmail.com",
+    "paymentMethod": "Credit Card",
+    "errors": [],
+    "isValid": false,
+    "id": "f879dc4c-5073-4f20-8c8a-a02411497d68"
+  },
+  {
+    "nickname": "hillary.hartmann",
+    "password": "BEj^yv^U^0pMzP4Fl",
+    "email": "lael.mclaughlin@gmail.com",
+    "paymentMethod": "Bitcoin",
+    "errors": [],
+    "isValid": false,
+    "id": "2052bfd0-2821-4f9f-8ef3-657666f7814d"
+  },
+  {
+    "nickname": "viviana.renner",
+    "password": "^#E3BZf#I",
+    "email": "maryam.schneider@gmail.com",
+    "paymentMethod": "Apple Pay",
+    "errors": [],
+    "isValid": false,
+    "id": "9e89cec6-ea87-4c64-86ad-27ba17b4587c"
+  },
+  {
+    "nickname": "timothy.keeling",
+    "password": "1oy5D7!6CW8F\u0026m$p^Nhy8",
+    "email": "ola.stamm@gmail.com",
+    "paymentMethod": "PayPal",
+    "errors": [],
+    "isValid": false,
+    "id": "05f2179c-ada1-4421-becd-74d5a0de6c04"
+  },
+  {
+    "nickname": "ferne.nikolaus",
+    "password": "3f45$0AsDT0dm#e%Ph8S",
+    "email": "mitchell.waelchi@yahoo.com",
+    "paymentMethod": "Apple Pay",
+    "errors": [],
+    "isValid": false,
+    "id": "fa98cb69-ea42-44a6-af5a-9c201d3f6056"
+  },
+  {
+    "nickname": "monte.wisoky",
+    "password": "OI8l7@gh3$j817ik4G",
+    "email": "millard.farrell@gmail.com",
+    "paymentMethod": "Debit Card",
+    "errors": [],
+    "isValid": false,
+    "id": "db07c64a-bb33-4ed1-9fe2-ca7241dd01c0"
+  },
+  {
+    "nickname": "samira.koss",
+    "password": "\u0026V2AR8lv0b6*J^Uy\u0026M",
+    "email": "josue.feil@hotmail.com",
+    "paymentMethod": "PayPal",
+    "errors": [],
+    "isValid": false,
+    "id": "c6a3fe62-39f0-42ca-9e53-1631cc631c4f"
+  },
+  {
+    "nickname": "sherrell.fadel",
+    "password": "6Tpe0%OeMTz#9\u0026DzJK",
+    "email": "euna.schumm@hotmail.com",
+    "paymentMethod": "Debit Card",
+    "errors": [],
+    "isValid": false,
+    "id": "8d5159f6-9c25-4061-9ef8-8e396037428a"
+  },
+  {
+    "nickname": "lula.beer",
+    "password": "5nnC^^W492x8#8s7YEU",
+    "email": "aracely.fay@hotmail.com",
+    "paymentMethod": "Debit Card",
+    "errors": [],
+    "isValid": false,
+    "id": "14026276-a599-4b8e-8fb7-76e6c006b298"
+  }
+]

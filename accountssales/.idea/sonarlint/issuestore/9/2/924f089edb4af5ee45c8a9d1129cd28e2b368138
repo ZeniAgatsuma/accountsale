@@ -1,0 +1,10 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿ8™˜ÙÉÓ1
+L	java:S106?"+Replace this use of System.out by a logger.(İÔœªıÿÿÿÿ8»»íÉÓ1
+:
+java:S2119f"Save and re-use this "Random".(¼İÅf8É»íÉÓ1
+V
+java:S1854l"9Remove this useless assignment to local variable "faker".(Êƒ¿â8Ë»íÉÓ1
+G
+java:S1481l"*Remove this unused "faker" local variable.(Êƒ¿â8Í»íÉÓ1
+L	java:S106p"+Replace this use of System.out by a logger.(‚€´èùÿÿÿÿ8Î»íÉÓ1
